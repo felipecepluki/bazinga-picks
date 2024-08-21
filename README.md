@@ -18,7 +18,8 @@ A mobile app that helps you choose random episodes of *The Big Bang Theory* to w
 - [x] Set up the basic project structure using Expo and React Native.
 - [x] Implement the logic to load episodes from a JSON file.
 - [x] Create a random episode selection feature.
-- [ ] Improve the design for the initial features.
+- [x] Improve the design for the initial features.
+- [ ] Add Welcome Screen for the App
 - [ ] Implement a login functionality.
 - [ ] Add functionality to mark episodes as watched.
 - [ ] Implement a favorites feature to save preferred episodes.
