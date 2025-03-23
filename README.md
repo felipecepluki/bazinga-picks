@@ -1,17 +1,18 @@
 # Bazinga Picks
 
-A mobile app that helps you choose random episodes of *The Big Bang Theory* to watch, so you don't have to decide every time you want to enjoy the show.
+A mobile app that helps you choose random episodes of _The Big Bang Theory_ to watch, so you don't have to decide every time you want to enjoy the show.
 
 ## Features
 
-- Select a random episode of *The Big Bang Theory* with one tap.
+- Select a random episode of _The Big Bang Theory_ with one tap.
 
 ## Technologies Used
 
 - **React Native**: For building the cross-platform mobile app.
 - **Expo**: For easy development and testing.
 - **TypeScript**: For type safety and better code maintainability.
-- **JSON**: To store episode data and metadata.
+- **TMDB API**: Api from get all data of TBBT
+- **NativeWind**: TailwindCSS for React Native
 
 ## To-Do List
 
@@ -30,9 +31,12 @@ A mobile app that helps you choose random episodes of *The Big Bang Theory* to w
 1. Clone the repository:
    ```bash
    git clone https://github.com/felipecepluki/bazinga-picks.git
+   ```
 2. Install the dependencies:
    ```bash
    npm install
+   ```
 3. Run the App:
    ```bash
    npx expo start
+   ```
